@@ -1,0 +1,7 @@
+# cmake build and error information
+CMakeFiles/
+CMakeCache*
+Makefile*
+cmake_install*
+
+
